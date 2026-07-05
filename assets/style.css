@@ -1,0 +1,26 @@
+.block-container{
+    padding-top:2rem;
+}
+
+div[data-testid="stMetric"]{
+    background:#1E293B;
+    padding:20px;
+    border-radius:15px;
+    border:1px solid #334155;
+}
+
+div[data-testid="stMetric"]:hover{
+    border:1px solid #00C853;
+}
+
+h1{
+    color:#00E676;
+}
+
+h2{
+    color:#90CAF9;
+}
+
+h3{
+    color:#FFC107;
+}
