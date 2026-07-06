@@ -23,8 +23,8 @@ with col2:
     st.subheader("Prediksi Harga Daging Sapi")
 
     st.write("""
-Aplikasi ini dikembangkan untuk melakukan prediksi harga daging sapi
-menggunakan algoritma **Multiple Linear Regression**.
+Aplikasi ini dikembangkan untuk melakukan prediksi harga daging sapi Di Kota Sukabumi 
+menggunakan algoritma **Regresi Linier Berganda**.
 
 Model dibangun menggunakan data historis harga daging sapi
 periode **2021–2025** serta beberapa variabel pendukung.
@@ -35,7 +35,7 @@ st.markdown("---")
 st.subheader("👨‍🎓 Profil Peneliti")
 
 st.write("""
-**Nama :** Anyi Suryani
+**Nama :** Ikhsan Madina Tufasah
 
 **Program Studi :** Teknik Informatika
 
@@ -43,7 +43,7 @@ st.write("""
 
 **Judul Penelitian :**
 
-Prediksi Harga Daging Sapi Menggunakan Algoritma Multiple Linear Regression
+Prediksi Harga Daging Sapi Di Kota Sukabumi Menggunakan Algoritma Regresi Linier Berganda
 """)
 
 st.markdown("---")
