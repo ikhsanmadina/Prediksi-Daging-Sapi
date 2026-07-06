@@ -29,7 +29,7 @@ st.title("🏠 Dashboard")
 st.markdown("""
 Dashboard ini menampilkan ringkasan dataset harga daging sapi
 yang digunakan dalam proses prediksi menggunakan algoritma
-**Multiple Linear Regression**.
+**Regresi Linier Berganda**.
 """)
 
 st.divider()
