@@ -22,19 +22,19 @@ st.set_page_config(
 # Header
 # ==========================
 
-st.sidebar.title("🐄 Prediksi Harga Daging")
+st.sidebar.title("🐄 Prediksi Harga Daging Sapi")
 
-st.subheader("Multiple Linear Regression")
+st.subheader("Regresi Linier Berganda")
 
 st.markdown("---")
 st.caption(
-    "Prediksi Harga Daging Sapi • Multiple Linear Regression • © 2026"
+    "Prediksi Harga Daging Sapi • Regresi Linier Berganda • © 2026"
 )
 st.markdown("""
 ## 👋 Selamat Datang
 
 Aplikasi ini digunakan untuk melakukan **Prediksi Harga Daging Sapi**
-menggunakan algoritma **Multiple Linear Regression**.
+menggunakan algoritma **Regresi Linier Berganda**.
 
 ### 📌 Menu Aplikasi
 
@@ -66,4 +66,4 @@ with col3:
 
 st.markdown("---")
 
-st.caption("© 2026 | Prediksi Harga Daging Sapi | Multiple Linear Regression")
+st.caption("© 2026 | Prediksi Harga Daging Sapi | Regresi Linier Berganda")
