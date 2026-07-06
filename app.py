@@ -24,7 +24,7 @@ st.set_page_config(
 
 st.sidebar.title("🐄 Prediksi Harga Daging Sapi")
 
-st.subheader("Regresi Linier Berganda")
+st.subheader("Prediksi Harga Daging Sapi Kota Sukabumi")
 
 st.markdown("---")
 st.caption(
