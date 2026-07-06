@@ -13,7 +13,7 @@ st.set_page_config(
 st.title("📊 Evaluasi Model")
 
 st.write("""
-Halaman ini menampilkan hasil evaluasi model Multiple Linear Regression.
+Halaman ini menampilkan hasil evaluasi model Regresi Linier Berganda.
 """)
 
 st.divider()
